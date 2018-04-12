@@ -18,6 +18,7 @@ Parts sources
 - https://spool3d.ca/
 - amazon.ca
 - https://goindustrial.ca/index.php/en/
+- Princess auto for clay ejection gun
 
 
 
